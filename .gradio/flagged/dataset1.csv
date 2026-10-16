@@ -1,0 +1,4 @@
+Ask your finance question,AI Advisor,timestamp
+What is the current gold price?,"An error occurred while processing your question:
+
+Error calling model 'gemini-2.5-flash' (PERMISSION_DENIED): 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': ""Permission denied: Consumer 'api_key:AIzaSyCdp5oYrk4XLznORtD6mgn-U1h8RwGBpB8' has been suspended."", 'status': 'PERMISSION_DENIED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'CONSUMER_SUSPENDED', 'domain': 'googleapis.com', 'metadata': {'containerInfo': 'api_key:AIzaSyCdp5oYrk4XLznORtD6mgn-U1h8RwGBpB8', 'consumer': 'projects/663860899119', 'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': ""Permission denied: Consumer 'api_key:AIzaSyCdp5oYrk4XLznORtD6mgn-U1h8RwGBpB8' has been suspended.""}]}}",2026-08-23 16:52:03.286985
